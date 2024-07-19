@@ -10,6 +10,10 @@ Guess My Number is a browser-based game where the player can try to guess a rand
 - Functional "Check" Button
 - Keeps Track of Highscores
 
+## Deployed URL
+
+https://themaddoxj.github.io/Guess-My-Number/ 
+
 
 ## Screenshots
 
